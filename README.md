@@ -1,4 +1,4 @@
-# CaixaEletronico
+# Caixa Eletrônico
 Sobre:
 - Sistema de fazer uma conta de saque com menos notas possíveis
 - Notas disponíveis: 100, 50, 20, 10 e 5
